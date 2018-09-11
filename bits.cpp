@@ -114,11 +114,6 @@ bool isPowerOfTwo(int data){
 }
 
 
-
-bool copyBitsInRange(int data1, int data2, int m , int n){
-
-}
-
 int main(){
 
 	std::cout<<"\n"<<std::bitset<16>(clearBits(0xFFFF, 4,2))<<endl;
